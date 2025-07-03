@@ -6,7 +6,6 @@ A backend system for managing real estate listings, realtor accounts, property l
 
 ## 📸 Admin Dashboard Preview
 
-![Admin Preview](./screenshots/1.png)
 ![Admin Preview](./screenshots/2.png)
 
 ![Admin Preview](./screenshots/3.png)
